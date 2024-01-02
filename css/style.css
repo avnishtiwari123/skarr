@@ -690,11 +690,12 @@ a:focus {
   width: 461px;
   text-align: center;
   padding-top: 11px;
-  margin-left: 33rem;
+  margin-left: 20rem;
   margin-bottom: 37px;
   margin-top: -62px;
   background-color: whitesmoke;
   color: rgb(112, 103, 103);
+  position: absolute;
   font-family: 'Courier New', Courier, monospace;
 }
 .outer-box {

@@ -1067,6 +1067,7 @@ pre code {
     flex: 0 0 50%;
     max-width: 50%;
     padding-left: 41px;
+    /* margin-bottom: 40%; */
   }
   .col-md-7 {
     -ms-flex: 0 0 58.333333%;

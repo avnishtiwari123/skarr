@@ -4,6 +4,8 @@ body {
   color: #0c0c0c;
   background-color: #ffffff;
   overflow-x: hidden;
+  margin: 0px;
+  box-sizing: border-box;
 }
 
 .layout_padding {
